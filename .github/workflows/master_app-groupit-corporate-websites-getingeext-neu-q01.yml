@@ -54,4 +54,4 @@ jobs:
           app-name: 'app-groupit-corporate-websites-getingeext-neu-q01'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_267C33F38E2A496ABA69442EAD69B444 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A82350F0E4594BB1A3F92440571430E0 }}
